@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Secciones/index.html" },
+    { "source": "/sobremi", "destination": "/Secciones/sobremi.html" },
+    { "source": "/mivida", "destination": "/Secciones/mivida.html" },
+    { "source": "/hobbies", "destination": "/Secciones/hobbies.html" },
+    { "source": "/cosasquemegustan", "destination": "/Secciones/cosasquemegustan.html" },
+    { "source": "/metas", "destination": "/Secciones/metas.html" },
+    { "source": "/contacto", "destination": "/Secciones/contacto.html" }
+  ]
+}
